@@ -92,6 +92,7 @@ namespace SpecFlowLambdaSample
 
             capability.SetCapability("username", username);
             capability.SetCapability("accesskey", accesskey);
+            capability.SetCapability("selenium_version", "4.12");
             Console.WriteLine(username);
             Console.WriteLine(accesskey);
 
