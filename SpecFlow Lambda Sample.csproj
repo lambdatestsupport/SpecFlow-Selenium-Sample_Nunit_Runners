@@ -137,6 +137,7 @@
     <None Include="App.config" />
     <None Include="Config.json" />
     <None Include="Feature\ToDoApp.feature" />
+    <None Include="Feature\TodoApp1.feature" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
